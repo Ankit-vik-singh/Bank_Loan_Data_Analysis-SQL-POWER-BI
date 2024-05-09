@@ -13,7 +13,7 @@ This repository contains the code and documentation for the Customized Bank Loan
 ## POWER BI DASHBOARD
 [**DASHBOARD**](https://app.powerbi.com/view?r=eyJrIjoiMGFhZWE3M2EtZTI5OC00OGVjLWIzYzAtMWFmMTk5YTI2YjNhIiwidCI6ImViZWQxNGJhLTMxNzEtNDk5Ni1iN2FiLTY1OWMzZGMwZWMzMyJ9)
 
-# Bank Loan Data Analysis Project
+# PROJECT SUMMARY || ## Bank Loan Data Analysis Project
 
 In this project, I conducted a comprehensive analysis of bank loan data using Microsoft SQL Server and Power BI. The project involved several steps, including database creation, data importation, and connection to Power BI for analysis.
 
