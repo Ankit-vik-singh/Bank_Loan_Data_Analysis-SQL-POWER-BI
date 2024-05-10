@@ -1,4 +1,6 @@
-# **Bank_Loan_Report** | ## POWER BI DASHBOARD
+# **Bank_Loan_Report** 
+
+## POWER BI DASHBOARD
 [**DASHBOARD**](https://app.powerbi.com/view?r=eyJrIjoiMGFhZWE3M2EtZTI5OC00OGVjLWIzYzAtMWFmMTk5YTI2YjNhIiwidCI6ImViZWQxNGJhLTMxNzEtNDk5Ni1iN2FiLTY1OWMzZGMwZWMzMyJ9)
 
 ## Finance Domain | Bank Loan Analysis
