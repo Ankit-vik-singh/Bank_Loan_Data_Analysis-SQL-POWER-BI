@@ -3,6 +3,9 @@
 ## POWER BI DASHBOARD
 [**DASHBOARD**](https://app.powerbi.com/view?r=eyJrIjoiMGFhZWE3M2EtZTI5OC00OGVjLWIzYzAtMWFmMTk5YTI2YjNhIiwidCI6ImViZWQxNGJhLTMxNzEtNDk5Ni1iN2FiLTY1OWMzZGMwZWMzMyJ9)
 
+![Dashboard pg1](https://github.com/Ankit-vik-singh/Bank_Loan_Data_Analysis-SQL-POWER-BI/assets/144229687/d1773d42-aee5-4c68-8d69-4ec263aa77de)
+
+
 ## Finance Domain | Bank Loan Analysis
 
 This repository contains the code and documentation for the Customized Bank Loan Report project. Below you'll find the domain knowledge in domain_knowledge.md, problem statement in problem_statement.md and an overview of the solution implemented using SQL and Power BI.
